@@ -1,5 +1,6 @@
 <template>
   <div>
-    <Nav />
+    <slot />
+    <RestaurantAd />
   </div>
 </template>
